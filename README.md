@@ -43,7 +43,6 @@ Daily routine :coffee:,👩‍💻,🧘
           src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
           style=flat-square/>
   </a>&nbsp;&nbsp;&nbsp;
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:kheedogg@naver.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <img alt="Skype" src="https://img.shields.io/badge/live:32cecbdd77cdef4b-%2300AFF0.svg?&style=flat-square&logo=Skype&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
