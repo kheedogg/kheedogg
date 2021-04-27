@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HaDong%20Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Dohee%20Kim&fontSize=90&animation=fadeIn)
 
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
-I'm HaDong Lee, a junior full-stack developer. 🌱 <br>
+I'm Dohee Kim. 🌱 <br>
 Daily routine :coffee:,👩‍💻,🧘
 </p>
 
@@ -45,22 +45,4 @@ Daily routine :coffee:,👩‍💻,🧘
   <a target="_blank" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmetleeha%2Fhit-counter&count_bg=%2379BDF1&title_bg=%238C8C8C&icon=&icon_color=%23E98CC9&title=hits&edge_flat=false"/></a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90)
-
-<!--
-**metleeha/metleeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![HadongLee's github stats](https://github-readme-stats.vercel.app/api?username=metleeha&show_icons=true&theme=dracula)](https://github.com/metleeha/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metleeha&layout=compact&theme=dracula)](https://github.com/metleeha)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=footer&fontSize=90&rotate=-180)
