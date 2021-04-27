@@ -34,13 +34,11 @@ Daily routine :coffee:,👩‍💻,🧘
 
 <p align="center" align="right">
   <a target="_blank" href="https://kheedogg.tistory.com"><img src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=flat-square&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
-<p align="center" align="right">
-    <a href="https://instagram.com/kheedogg">
-        <img 
-            src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
-            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/kheedogg">
+      <img 
+          src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:kheedogg@naver.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center" align="right">
