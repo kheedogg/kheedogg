@@ -45,7 +45,7 @@ Daily routine :coffee:,👩‍💻,🧘
   </a>&nbsp;&nbsp;&nbsp;
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:kheedogg@naver.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <img alt="Skype" src="https://img.shields.io/badge/<handle>-%2300AFF0.svg?&style=flat-square&logo=Skype&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img alt="Skype" src="https://img.shields.io/badge/kheedogg-%2300AFF0.svg?&style=flat-square&logo=Skype&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center" align="right">
     <a target="_blank" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkheedogg%2Fhit-counter&count_bg=%2379BDF1&title_bg=%238C8C8C&icon=&icon_color=%23E98CC9&title=hits&edge_flat=false"/></a>
