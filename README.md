@@ -13,24 +13,24 @@ Daily routine :coffee:,👩‍💻,🧘
 </p>
 
 <p align="center">
-  <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=flat-square&logo=SASS&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?&style=flat-square&logo=opencv&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   </p>
 
 <h3 align="center">IDEs/Editors</h3>
 <p align="center">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=flat-square&logo=visual-studio-code&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=flat-square&logo=visual-studio&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 
 
 <h3 align="center">ML/DL</h3>
 <p align="center">
-  <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 <h3 align="center">•••</h3>
 
