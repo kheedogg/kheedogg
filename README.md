@@ -39,7 +39,7 @@ Daily routine :coffee:,👩‍💻,🏊
 <p align="center">
   <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<!--  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" />&nbsp;&nbsp;&nbsp; -->
 <!--   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" />&nbsp;&nbsp;&nbsp; -->
   <img alt="Spark" src="https://img.shields.io/static/v1?style=flat-square&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=" />&nbsp;&nbsp;&nbsp;
 <!--   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white" />&nbsp;&nbsp;&nbsp; -->
@@ -60,3 +60,5 @@ Daily routine :coffee:,👩‍💻,🏊
 <p align="center" align="right">
     <a target="_blank" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkheedogg%2Fhit-counter&count_bg=%2379BDF1&title_bg=%238C8C8C&icon=&icon_color=%23E98CC9&title=hits&edge_flat=false"/></a>
 </p>
+
+
