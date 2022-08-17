@@ -32,6 +32,7 @@ Daily routine :coffee:,👩‍💻,🧘
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img alt="Spark" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 <h3 align="center">•••</h3>
