@@ -1,7 +1,14 @@
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
 I'm Dohee Kim. 🌱 <br>
-Daily routine :coffee:,👩‍💻,🧘
+Daily routine :coffee:,👩‍💻,🏊 
+<!--   🧘, -->
+  
+  
+<!--  Search emoticon here!
+  https://emojicombos.com/swim -->
+  
+  
 </p>
 
 <h3 align="center"> 🛠 Tech Stack ✨ </h3>
@@ -16,24 +23,27 @@ Daily routine :coffee:,👩‍💻,🧘
 <p align="center">
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=flat-square&logo=SASS&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?&style=flat-square&logo=opencv&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+<!--   <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?&style=flat-square&logo=opencv&logoColor=white"/>&nbsp;&nbsp;&nbsp; -->
   </p>
 
 <h3 align="center">IDEs/Editors</h3>
 <p align="center">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=flat-square&logo=visual-studio-code&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=flat-square&logo=visual-studio&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    <img alt="Databricks" src="https://img.shields.io/static/v1?style=flat-square&message=Databricks&color=FF3621&logo=Databricks&logoColor=FFFFFF&label="/>&nbsp;&nbsp;&nbsp;
+<!--   <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=flat-square&logo=visual-studio&logoColor=white"/>&nbsp;&nbsp;&nbsp; -->
+  <img alt="Jupyter" src="https://img.shields.io/static/v1?style=flat-square&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label="/>&nbsp;&nbsp;&nbsp;
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=flat-square&logo=visual-studio-code&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 
 
-<h3 align="center">ML/DL</h3>
+<h3 align="center">DATA</h3>
 <p align="center">
   <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img alt="Spark" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<!--   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" />&nbsp;&nbsp;&nbsp; -->
+  <img alt="Spark" src="https://img.shields.io/static/v1?style=flat-square&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=" />&nbsp;&nbsp;&nbsp;
+<!--   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white" />&nbsp;&nbsp;&nbsp; -->
+  <img alt="Plotly" src="https://img.shields.io/static/v1?style=flat-square&message=Plotly&color=3F4F75&logo=Plotly&logoColor=FFFFFF&label=" />&nbsp;&nbsp;&nbsp;
 </p>
 <h3 align="center">•••</h3>
 
