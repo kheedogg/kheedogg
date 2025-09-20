@@ -14,9 +14,10 @@ Daily routine :coffee:,👩‍💻,🏊
 <h3 align="center"> 🛠 Tech Stack ✨ </h3>
 
 <p align="center">
-  <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img alt="NESTJS" src="https://img.shields.io/badge/nestJS-red?&style=for-the-badge&logo=nestjs&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img alt="PYTHON" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img alt="MYSQL" src="https://img.shields.io/badge/mysql%20-%2314354C.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 
 </p>
 
